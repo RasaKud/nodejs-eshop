@@ -1,0 +1,9 @@
+{
+    "name": "Juoda arbata",
+    "price": {
+        "value": 2.22,
+        "currency":"Eur"
+    },
+    "inStock": 10,
+    "sold": 20
+}

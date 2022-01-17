@@ -1,0 +1,9 @@
+{
+    "name": "Raudoni kvepalai",
+    "price": {
+        "value": 15.00,
+        "currency": "Eur"
+    },
+    "inStock": 4,
+    "sold": 7
+}
