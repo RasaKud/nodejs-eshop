@@ -1,0 +1,9 @@
+{
+    "name": 5,
+    "price": {
+        "value": 100.00,
+        "currency": "Eur"
+    },
+    "inStock": 3,
+    "sold": 3
+}
